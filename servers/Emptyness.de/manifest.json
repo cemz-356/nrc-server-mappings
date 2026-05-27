@@ -1,0 +1,19 @@
+{
+  "server-address": [
+    "eu.emptyness.de",
+  ],
+  "pretty-name": "EMPTYNESS.DE",
+  "categorys": [
+    "kitPVP"
+  ],
+  "gamemodes": {
+    "events": {
+      "name": "KitPvP",
+      "versions": "1.21.10+"
+    },
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  },
+  "disabled-modules": ["HEALTH_INDICATORS", "ITEM_MODEL"]
+}
